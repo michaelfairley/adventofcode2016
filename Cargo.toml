@@ -5,3 +5,4 @@ authors = ["Michael Fairley <michaelfairley@gmail.com>"]
 
 [dependencies]
 rust-crypto = "^0.2"
+regex = "0.1"
